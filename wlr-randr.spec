@@ -1,7 +1,7 @@
 Summary:	An xrandr clone for wlroots compositors
 Name:		wlr-randr
 Version:	0.2.0
-Release:	1
+Release:	2
 License:	MIT
 Group:		Applications
 Source0:	https://github.com/emersion/wlr-randr/releases/download/v%{version}/%{name}-%{version}.tar.gz

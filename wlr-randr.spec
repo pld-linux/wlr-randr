@@ -9,6 +9,7 @@ Source0:	https://git.sr.ht/~emersion/wlr-randr/refs/download/v%{version}/%{name}
 URL:		https://sr.ht/~emersion/wlr-randr/
 BuildRequires:	meson >= 0.47.0
 BuildRequires:	ninja
+BuildRequires:	pkgconfig
 BuildRequires:	rpmbuild(macros) >= 1.752
 BuildRequires:	wayland-devel
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)

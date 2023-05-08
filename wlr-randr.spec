@@ -4,9 +4,9 @@ Version:	0.2.0
 Release:	2
 License:	MIT
 Group:		Applications
-Source0:	https://github.com/emersion/wlr-randr/releases/download/v%{version}/%{name}-%{version}.tar.gz
+Source0:	https://git.sr.ht/~emersion/wlr-randr/refs/download/v%{version}/%{name}-%{version}.tar.gz
 # Source0-md5:	fc62932c1724ec3640376b6a156b375d
-URL:		https://github.com/emersion/wlr-randr
+URL:		https://sr.ht/~emersion/wlr-randr/
 BuildRequires:	meson >= 0.47.0
 BuildRequires:	ninja
 BuildRequires:	rpmbuild(macros) >= 1.752

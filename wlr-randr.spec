@@ -1,11 +1,11 @@
 Summary:	An xrandr clone for wlroots compositors
 Name:		wlr-randr
-Version:	0.4.0
+Version:	0.4.1
 Release:	1
 License:	MIT
 Group:		Applications
 Source0:	https://git.sr.ht/~emersion/wlr-randr/refs/download/v%{version}/%{name}-%{version}.tar.gz
-# Source0-md5:	8b9b978fb6b2a08a3c93b7b233ae4902
+# Source0-md5:	3261193b5db93d013ff9ee613d20342c
 URL:		https://sr.ht/~emersion/wlr-randr/
 BuildRequires:	meson >= 0.51.0
 BuildRequires:	ninja
